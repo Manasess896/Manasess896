@@ -6,7 +6,7 @@
 
 ## 🚀 About Me
 - 💻 I'm passionate about creating innovative solutions
-- 🌐 Check out my [portfolio](https://manasess896.github.io/portfolio//)
+- 🌐 Check out my [portfolio](https://code-craft-website-solutions.onrender.com//)
 - 🌱 Always learning and growing in the tech world
 - 👯 Open to collaborating on interesting projects
 
