@@ -1,16 +1,16 @@
-# 👋 Hi, I'm Manases
+# Hi, I'm Manases
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Full+Stack+web+Developer;Always+learning+new+things" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
-- 💻 I'm passionate about creating innovative solutions
-- 🌐 Check out my [portfolio](https://code-craft-website-solutions.onrender.com//)
-- 🌱 Always learning and growing in the tech world
-- 👯 Open to collaborating on interesting projects
+## About Me
+- I'm passionate about creating innovative solutions
+-  Check out my [portfolio](https://manases.space/)
+- Always learning and growing in the tech world
+-  Open to collaborating on interesting projects
 
-## 🛠️ Tech Stack
+##  Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
@@ -20,12 +20,12 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
 </p>
 
-## 📊 GitHub Stats
+##  GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Manasess896&show_icons=true&theme=radical" alt="GitHub Stats"/>
 </p>
 
-## 🤝 Connect With Me
+##  Connect With Me
 <p align="left">
   <a href="https://linkedin.com/in/YourLinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
